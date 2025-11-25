@@ -41,6 +41,12 @@ Wraps prompts using random templates from a large pool to break universal jailbr
 
 ---
 
+![SANITIZE image](image.png)
+
+
+![BLOCK image](image-1.png)
+
+
 ## How to set it up
 
 ### Backend
@@ -52,3 +58,4 @@ Wraps prompts using random templates from a large pool to break universal jailbr
 - cd frontend
 - npm install
 - npm run dev
+
